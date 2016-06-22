@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.kw784.wubitalk.MainActivity">
+    <item
+        android:id="@+id/log"
+        android:orderInCategory="100"
+        android:title="로그아웃"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/addUser"
+        android:orderInCategory="100"
+        android:title="친구추가"
+        app:showAsAction="never" />
+</menu>

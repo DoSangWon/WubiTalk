@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('org.xbill.dns_2.1.7.jar'))
